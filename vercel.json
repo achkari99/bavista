@@ -2,7 +2,7 @@
   "framework": "vite",
   "installCommand": "pnpm install --frozen-lockfile",
   "buildCommand": "pnpm -w run build:vercel",
-  "outputDirectory": "artifacts/bavista-website/dist",
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/(.*)",

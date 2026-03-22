@@ -1,0 +1,138 @@
+Objective:
+Design a high-end, visually immersive website for a premium mocktail and event service brand (Mocktail by Bavista). The goal is to create a luxurious, emotionally engaging experience that convinces users to book the service for their events (weddings, parties, celebrations).
+
+Design direction:
+
+Luxury, elegant, and festive
+
+Dark-mode dominant with glowing accents
+
+Strong nightlife and celebration aesthetic
+
+Visually rich, cinematic, and immersive
+
+High-end event branding (not a simple café website)
+
+
+Visual identity:
+
+Primary colors:
+- Deep black / dark background
+- Gold accents (luxury)
+- Warm neon glow (yellow/orange)
+
+Accent colors:
+- Vibrant cocktail colors (red, orange, blue, green)
+
+Use:
+- Glow effects
+- Glass reflections
+- Light gradients
+- Subtle blur and depth (premium feel)
+
+Typography:
+- Elegant headings (slightly stylized or serif)
+- Clean modern body text
+
+
+Experience & interaction:
+
+Highly immersive and interactive
+
+Smooth cinematic transitions between sections
+
+Hover effects on drinks:
+- Glow + slight rotation + liquid shine
+
+Micro-interactions:
+- Light flickers
+- Glow pulses
+- Smooth scaling
+
+Scroll animations:
+- Reveal sections like a story
+- Parallax with lights and drinks
+
+Add subtle “event energy” through motion
+
+
+Layout ideas:
+
+Hero section:
+- Full-screen dark background
+- Cinematic video or image (event + drinks + lights)
+- Minimal text:
+  “Elevate your events”
+  “Luxury mocktail experience”
+
+- CTA: “Book your experience”
+
+Experience section:
+- Show events (weddings, parties, anniversaries)
+- Emotional visuals (people enjoying)
+
+Drinks showcase:
+- Premium grid or carousel
+- Each drink interactive (hover glow + animation)
+
+Social proof:
+- Real events photos/videos
+- Testimonials
+
+Booking section:
+- Clear CTA (very important)
+- “Reserve your event”
+
+
+Architecture & quality:
+
+Component-based architecture:
+- Hero
+- Experience showcase
+- Drink cards
+- Event gallery
+- Booking CTA
+
+Reusable animations and motion system
+
+Clean and scalable structure
+
+
+Creative freedom:
+
+Think like a luxury event brand agency
+
+Avoid generic restaurant layouts
+
+Focus on emotional storytelling and atmosphere
+
+Make users imagine their own event
+
+
+Advanced ideas (IMPORTANT):
+
+Add glowing neon elements
+
+Use fire or light effects subtly (inspired by cocktails)
+
+Floating elements (glasses, lights)
+
+Animated background gradients (night vibes)
+
+Add a “live event feeling” to the site
+
+
+Evaluation criteria:
+
+Luxury feel and premium perception
+
+Emotional impact (does it make users want to book?)
+
+Quality of motion and interaction
+
+Originality and uniqueness
+
+
+Goal:
+
+Deliver a website that feels like a luxury event experience — not just a service page, but a visually immersive journey that sells emotion, celebration, and exclusivity.
